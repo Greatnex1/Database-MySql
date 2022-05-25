@@ -1,6 +1,6 @@
 -- insert method one --
 -- insert int the book table
-/*
+
 insert into Book value(
 
 1,	'Killer Stories',	'Dwayne Caff'),
@@ -24,7 +24,7 @@ insert into Book value(
 (19,	'Lotlux',	'Karina Kimmel'),
 (20,	'Bytecard',	'Kara-lynn Hutchinges');*/
  
- /*insert into User value ( 
+ insert into User value ( 
   1, 'Raphael Urling', 'F', '0 Hayes Pass', '612-399-9058'),
  ( 2, 'Iormina Kovalski', 'M', '123 Troy Hill', '717-284-3005'),
   (3, 'Nadiya Biset', 'M', '37 Emmet Road', '607-290-4245'),
@@ -88,7 +88,7 @@ insert into Borrow_book value
 (20, 40, '2022-11-15', '2022-11-26');
 
 
-/*insert into Staff values 
+insert into Staff values 
 (1, 'Lacy Alenov', 'lalenov0@si.edu', '526-787-2683', '10 Anderson Road', 'Librarian');
 insert into Staff values 
 (2, 'Corrie Matysik', 'cmatysik1@ibm.com', '488-708-7112', '9 Derek Trail', 'Security Guard');
@@ -108,6 +108,6 @@ insert into Staff values
 (9, 'Nichole Simyson', 'nsimyson8@unblog.fr', '535-283-9348', '66749 Barnett Circle', 'Janitor');
 insert into Staff values 
 (10, 'Roarke Oxenham', 'roxenham9@google.com.br', '664-899-3301', '49846 Hanson Terrace', 'Photographer');
-*/
+
 
 
